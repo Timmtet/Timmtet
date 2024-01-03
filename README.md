@@ -1,5 +1,5 @@
 ### Hi!😄 Welcome 👋
-![timi1](https://github.com/Timmtet/Timmtet/assets/96595056/3b599b65-eb26-442c-9f40-817d8f4d7360)
+![About me](https://github.com/Timmtet/Timmtet/assets/96595056/caf22461-9518-4dbc-b040-4fd9ccefd8c1)
 
 Hello, My name is Timileyin Akintilo. A data scientist with three years of experience, bringing expertise in data gathering, cleaning, and analysis to extract valuable insights. Proficient in applying statistical, algebraic, and various analytical techniques to generate meaningful insights from data. 
 Possess a high level of organization, motivation, and diligence, with a significant background in data analysis. Committed to delivering impactful results through data-driven approaches.
